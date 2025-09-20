@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there I'm Reece 👋
+
+Software engineer
+
+Most of my projects are written in Python. Learning new languages and need ideas to learn C.
+
 
 - 🔭 I’m currently working on a Workout Tracker using django framework
 - 🌱 I’m currently learning Django Framework and web servers such as nginx
